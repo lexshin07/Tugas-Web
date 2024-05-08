@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Biodata</title>
+</head>
+<body>
+    <h1>Biodata</h1>
+    <h2>Nama : Ariel Ahmadi Lesmana</h2>
+    <h2>Tempat, tanggal Lahir : Bandung, 18-Mei-2005</h2>
+    <h2>Alamat : Kp. Pamekaran Des. Margamulya Kec. Pasirjamabu</h2>
+    <h2>Telepon : 08954228378</h2>
+    <h2>Email : ariellesmana08@gmail.com</h2>
+    <h2>Agama : Islam</h2>
+    <h2>Status : Mahasiswa</h2>
+    <h2>Jenis Kelamain : Laki-laki</h2>
+    <h2>golongan Darah : O</h2>
+    <h2>Kewarganegaraan : Indonesia</h2>
+    <h2>Pendidikan</h2>
+    <dl>
+        <dt>SD</dt>
+        <dd>SDN Sukamaju</dd>
+        <dt>SMP</dt>
+        <dd>SMP Negeri 1 Ciwidey</dd>
+        <dt>SMK</dt>
+        <dd>SMK Budi Bhakti Ciwidey</dd>
+        <dt>Universitas</dt>
+        <dd>STMIK Dharma Negara</dd>
+    </dl>
+    <h2>Keahlian : </h2>
+    <ul>
+        <li>Pengembangan Web : HTML, CSS, JAvaScript</li>
+        <li>Bahasa</li>
+    </ul>
+
+    <h2>Hobi : </h2>
+    <ul>
+        <li>Menonton Film</li>
+        <li>Bermain Game</li>
+    </ul>
+    
+    <h2>Cita-cita : Traveler</h2>
+    <h2>Pengalaman Kerja : JNT posisi Packing</h2>
+
+
+</body>
+</html>
